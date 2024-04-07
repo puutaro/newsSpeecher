@@ -171,7 +171,7 @@ function editUrlListHandler(){
 		"renameNewsUrlListName",
 		"${NEWS_SPEECHER_EDIT_DIR_PATH}",
 		setVariableTypeCon,
-		`newsUrlListName=${newsUrlListName}\trenameNewsUrlListName=`,
+		`newsUrlListName=${newsUrlListName}\nrenameNewsUrlListName=`,
 		"${NEWS_SPEECHER_PREFIX}",
 		"${TSV_EXTEND}",
         "${NEWS_SPEECHER_PATH}",
